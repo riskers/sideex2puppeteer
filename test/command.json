@@ -1,0 +1,17 @@
+[{
+  "command": "open",
+  "target": "https://www.baidu.com/",
+  "value": ""
+}, {
+  "command": "clickAt",
+  "target": "id=kw",
+  "value": "264,10"
+}, {
+  "command": "type",
+  "target": "id=kw",
+  "value": "sda"
+}, {
+  "command": "submit",
+  "target": "id=form",
+  "value": ""
+}]
